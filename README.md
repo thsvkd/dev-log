@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 10월 12일
 Small Things, Big Things에 대해서 다양화 -> 시중에 있는 IoT기기를 우리 SoPIoT플랫폼에 붙일 수 있는지 조사 해보기. 아마 API나 SDK를 제공하면 가능 할 듯 싶다.
 
